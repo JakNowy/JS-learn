@@ -38,11 +38,11 @@
 // console.log(f(2, 3));
 
 // DYNAMIC OBJECT FIELDS
-// obiekty pobierają wartości atrybutów z deklarowanych wcześniej zmiennych (jeśli mają identyczne nazwy)
+// obiekty pobierają warto
+// ści atrybutów z deklarowanych wcześniej zmiennych (jeśli mają identyczne nazwy)
 //
 // let x = 4;
 // let obj = {
 //   x
 // };
 // console.log(obj.x) // obj.x = 4
-
